@@ -1,0 +1,15 @@
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\45 - StackPanel i WrapPanel\StackPanel i WrapPanel\StackPanel i WrapPanel\bin\Debug\StackPanel i WrapPanel.exe.config
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\45 - StackPanel i WrapPanel\StackPanel i WrapPanel\StackPanel i WrapPanel\bin\Debug\StackPanel i WrapPanel.exe
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\45 - StackPanel i WrapPanel\StackPanel i WrapPanel\StackPanel i WrapPanel\bin\Debug\StackPanel i WrapPanel.pdb
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\45 - StackPanel i WrapPanel\StackPanel i WrapPanel\StackPanel i WrapPanel\obj\Debug\StackPanel i WrapPanel.csprojResolveAssemblyReference.cache
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\45 - StackPanel i WrapPanel\StackPanel i WrapPanel\StackPanel i WrapPanel\obj\Debug\MainWindow.g.cs
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\45 - StackPanel i WrapPanel\StackPanel i WrapPanel\StackPanel i WrapPanel\obj\Debug\App.g.cs
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\45 - StackPanel i WrapPanel\StackPanel i WrapPanel\StackPanel i WrapPanel\obj\Debug\StackPanel i WrapPanel_MarkupCompile.cache
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\45 - StackPanel i WrapPanel\StackPanel i WrapPanel\StackPanel i WrapPanel\obj\Debug\StackPanel i WrapPanel_MarkupCompile.lref
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\45 - StackPanel i WrapPanel\StackPanel i WrapPanel\StackPanel i WrapPanel\obj\Debug\MainWindow.baml
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\45 - StackPanel i WrapPanel\StackPanel i WrapPanel\StackPanel i WrapPanel\obj\Debug\StackPanel i WrapPanel.g.resources
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\45 - StackPanel i WrapPanel\StackPanel i WrapPanel\StackPanel i WrapPanel\obj\Debug\StackPanel_i_WrapPanel.Properties.Resources.resources
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\45 - StackPanel i WrapPanel\StackPanel i WrapPanel\StackPanel i WrapPanel\obj\Debug\StackPanel i WrapPanel.csproj.GenerateResource.Cache
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\45 - StackPanel i WrapPanel\StackPanel i WrapPanel\StackPanel i WrapPanel\obj\Debug\StackPanel i WrapPanel.csproj.CoreCompileInputs.cache
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\45 - StackPanel i WrapPanel\StackPanel i WrapPanel\StackPanel i WrapPanel\obj\Debug\StackPanel i WrapPanel.exe
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\45 - StackPanel i WrapPanel\StackPanel i WrapPanel\StackPanel i WrapPanel\obj\Debug\StackPanel i WrapPanel.pdb

@@ -1,0 +1,24 @@
+﻿<Window x:Class="DockPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DockPanel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="400">
+    
+    <DockPanel LastChildFill="True"> <!--odpowiada za wypełnienie dla całego dock panelu lub też nie-->
+        
+        <Button DockPanel.Dock="Top"     >TOP</Button>
+        <Button DockPanel.Dock="Bottom"  >BOTOM footer</Button>
+        <Button DockPanel.Dock="Right"   >RIGHT</Button>
+        <Button DockPanel.Dock="Left"   Width="60" >LEFT</Button>
+
+        <!-- kolejność odpowiada za miejsce i rozłożenie lub wypełnienie fill na ekranie-->
+        
+        <Button DockPanel.Dock="Bottom"  >BOTOM footer</Button>
+        <Button>Center</Button>
+        <Button DockPanel.Dock="Left">    środek ondnośnie LastCHildFill</Button>
+
+    </DockPanel>
+</Window>

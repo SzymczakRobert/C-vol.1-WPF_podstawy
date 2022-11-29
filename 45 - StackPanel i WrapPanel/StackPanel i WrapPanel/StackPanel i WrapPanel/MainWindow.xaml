@@ -1,0 +1,24 @@
+﻿<Window x:Class="StackPanel_i_WrapPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StackPanel_i_WrapPanel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    
+    <WrapPanel Orientation="Horizontal" Width="300" HorizontalAlignment="Center" Background="Teal">
+        
+        <Button HorizontalAlignment="Left" Width="200">1</Button>
+        <Button HorizontalAlignment="Right" Width="100" Height="50">2</Button>
+        <Button HorizontalAlignment="Center" Height="35">3</Button>
+        <Button VerticalAlignment="Stretch">4</Button>
+        <Button VerticalAlignment="Bottom" Height="100">5</Button>
+        <Button VerticalAlignment="Top">6</Button>  
+        
+    </WrapPanel>
+
+    <!--<WrapPanel>      różnica polega na tym że stackPanel nie zawija np butonów-->
+    <!--</WrapPanel>     gdy wychodzą za ekran wtedy przewija je piętro niżej -->
+    <!-- wystarczy zamienić stack na wrap, nie można stosować w jednym drzewie wywaołań-->
+</Window>

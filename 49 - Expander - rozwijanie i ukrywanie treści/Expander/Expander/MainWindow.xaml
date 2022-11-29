@@ -1,0 +1,24 @@
+﻿<Window x:Class="Expander.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Expander"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Expander Header="Jak się z wami skontaktować?" IsExpanded="True">
+            <!--IsExpanded daje możliwośc otworzenia expandera na starcie lub też nie-->
+            <Grid>
+                <!--Można umieścić w StackPanelu aby traktowało jako jeden
+                    lub jak obecnie w Grid-zie i osobnych text boxach-->
+                <TextBlock Name="jeden" TextWrapping="Wrap" > 
+                669 507 870</TextBlock>
+                
+                <TextBlock Name="dwa" TextWrapping="Wrap" Margin="0,15,0,0" > 
+                Robert Szymczak</TextBlock>
+            </Grid>
+            
+        </Expander>
+    </Grid>
+</Window>
