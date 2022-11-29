@@ -1,0 +1,30 @@
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42- Layout i Attached property\Layout\Layout\bin\Debug\Layout.exe.config
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42- Layout i Attached property\Layout\Layout\bin\Debug\Layout.exe
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42- Layout i Attached property\Layout\Layout\bin\Debug\Layout.pdb
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42- Layout i Attached property\Layout\Layout\obj\Debug\Layout.csprojResolveAssemblyReference.cache
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42- Layout i Attached property\Layout\Layout\obj\Debug\MainWindow.g.cs
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42- Layout i Attached property\Layout\Layout\obj\Debug\App.g.cs
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42- Layout i Attached property\Layout\Layout\obj\Debug\Layout_MarkupCompile.cache
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42- Layout i Attached property\Layout\Layout\obj\Debug\Layout_MarkupCompile.lref
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42- Layout i Attached property\Layout\Layout\obj\Debug\MainWindow.baml
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42- Layout i Attached property\Layout\Layout\obj\Debug\Layout.g.resources
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42- Layout i Attached property\Layout\Layout\obj\Debug\Layout.Properties.Resources.resources
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42- Layout i Attached property\Layout\Layout\obj\Debug\Layout.csproj.GenerateResource.Cache
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42- Layout i Attached property\Layout\Layout\obj\Debug\Layout.csproj.CoreCompileInputs.cache
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42- Layout i Attached property\Layout\Layout\obj\Debug\Layout.exe
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42- Layout i Attached property\Layout\Layout\obj\Debug\Layout.pdb
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42 - Layout i Attached property\Layout\Layout\bin\Debug\Layout.exe.config
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42 - Layout i Attached property\Layout\Layout\bin\Debug\Layout.exe
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42 - Layout i Attached property\Layout\Layout\bin\Debug\Layout.pdb
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42 - Layout i Attached property\Layout\Layout\obj\Debug\Layout.csprojResolveAssemblyReference.cache
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42 - Layout i Attached property\Layout\Layout\obj\Debug\MainWindow.g.cs
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42 - Layout i Attached property\Layout\Layout\obj\Debug\App.g.cs
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42 - Layout i Attached property\Layout\Layout\obj\Debug\Layout_MarkupCompile.cache
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42 - Layout i Attached property\Layout\Layout\obj\Debug\Layout_MarkupCompile.lref
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42 - Layout i Attached property\Layout\Layout\obj\Debug\MainWindow.baml
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42 - Layout i Attached property\Layout\Layout\obj\Debug\Layout.g.resources
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42 - Layout i Attached property\Layout\Layout\obj\Debug\Layout.Properties.Resources.resources
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42 - Layout i Attached property\Layout\Layout\obj\Debug\Layout.csproj.GenerateResource.Cache
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42 - Layout i Attached property\Layout\Layout\obj\Debug\Layout.csproj.CoreCompileInputs.cache
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42 - Layout i Attached property\Layout\Layout\obj\Debug\Layout.exe
+C:\Users\roszy\Desktop\Kurs\Udemy WPF\42 - Layout i Attached property\Layout\Layout\obj\Debug\Layout.pdb

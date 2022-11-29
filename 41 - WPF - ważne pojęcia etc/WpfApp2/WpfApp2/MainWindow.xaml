@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="500">
+    <Grid Margin="0,0,2,10">
+
+        <Button FontFamily="Tempus Sans ITC" Margin="102,21,146,10" Click="Button_Click" FontWeight="Bold">
+            <Grid Margin="0,0,10,-40">
+                    <Image Source="images\dark-cubes-glow-computer-graphics-free.jpg" Height="200" Width="250"/>
+                <Label  Margin="0,-9,54,229" Content="Click On ME" FontWeight="Bold"/>
+                <Button FontFamily="Verdana" Margin="14,195,50,42"  Click="Button_Click" Content="KOLEJNY BUTTON"/>
+            </Grid>
+        </Button>
+
+        <TextBlock x:Name = "test" Margin="212,34,160,176" RenderTransformOrigin="0.684,0.628">
+            
+        </TextBlock>
+    </Grid>
+</Window>
